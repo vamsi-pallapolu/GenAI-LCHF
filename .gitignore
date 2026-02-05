@@ -1,1 +1,4 @@
 venv/
+
+#ignore the */docx files
+*.docx
